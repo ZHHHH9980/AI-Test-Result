@@ -8,4 +8,4 @@
 
 | 模型 | 思考深度 | 结果截图 |
 | --- | --- | --- |
-| fable5.1 | high | [![fable5.1](results/fable5.1/001/result.png)](results/fable5.1/001/result.png) |
+| fable5.1 | high | [<img src="results/fable5.1/001/result.png" width="360" alt="fable5.1">](results/fable5.1/001/result.png) |
