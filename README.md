@@ -8,7 +8,6 @@
 
 | 模型 | 思考深度 | 结果截图 |
 | --- | --- | --- |
-| fable5.1 | high | [<img src="results/fable5.1/001/result.png" width="360" alt="fable5.1">](results/fable5.1/001/result.png) |
 | fable5.1 | medium | [<img src="results/fable5.1/002/result.png" width="360" alt="fable5.1 medium">](results/fable5.1/002/result.png) |
 | fable5.2 | high | [<img src="results/fable5.2/001/result.png" width="360" alt="fable5.2 high">](results/fable5.2/001/result.png) |
 | astra-6 | high | [<img src="results/astra-6/001/result.jpg" width="360" alt="astra-6">](results/astra-6/001/result.jpg) |
